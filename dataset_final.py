@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from neuralNetwork10 import NeuralNetwork
+from neuralNetwork import NeuralNetwork
 from dataset2 import Dataset
 import numpy as np
 import os
