@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-neuralNetwork10.py is a module to create a neural network with variable 
+neuralNetwork.py is a module to create a neural network with variable 
 inputs, outputs, hidden neurons, hidden layers, learning rate and activation function.
 The activation function is either sigmoid or tanh, any similar function could be added.
 \nThis module is not optimized. 
